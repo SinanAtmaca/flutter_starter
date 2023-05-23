@@ -11,7 +11,7 @@ class _SettingsState extends State<Settings> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("Settings"),
+      body: Text("My Settings"),
     );
   }
 }
